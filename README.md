@@ -58,8 +58,8 @@ plt.show()
 
 ### OUTPUT:
 
-NAME : DEVADHAARINI.D
-REGNO : 212223230040
+### NAME : DEVADHAARINI.D
+### REGNO : 212223230040
 
 <img width="636" height="470" alt="image" src="https://github.com/user-attachments/assets/5527c05a-eae5-4f0d-8d15-5754081d0a58" />
 
